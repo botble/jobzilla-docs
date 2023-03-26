@@ -2,7 +2,7 @@
 
 ## Newsletter widget
 
-![Image](https://live.staticflickr.com/65535/52276900180_6b481f2eb5_b.jpg)
+![Image](https://live.staticflickr.com/65535/52276900180_6b481f2eb5_b.jpg) 
 
 If you don't need it, you can deactivate plugin Newsletter in Admin -> Plugins.
 

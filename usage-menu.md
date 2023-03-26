@@ -10,7 +10,7 @@ Change it in Admin -> Appearance -> Menus -> Main menu:
 
 Drag and drop to change menu position.
 
-![Image](https://live.staticflickr.com/65535/52275660256_5c9f24cd42_b.jpg)
+![Image](https://live.staticflickr.com/65535/52275660256_5c9f24cd42_b.jpg) 
 
 To translate menu
 

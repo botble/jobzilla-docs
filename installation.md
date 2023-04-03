@@ -41,9 +41,9 @@ If you are using Cpanel, you can follow this article to change your PHP memory l
 
 ### Video tutorial
 
-JobZilla is based on our Botble CMS, check video for installation on https://www.youtube.com/watch?v=zFbWYpjuFJk
+JobZilla is based on our Botble CMS, check video for installation on https://www.youtube.com/watch?v=j4dPPWKsxFs
 
-> {video} https://www.youtube.com/watch?v=zFbWYpjuFJk
+> {video} https://www.youtube.com/watch?v=j4dPPWKsxFs
 
 - Upload all files into the root folder of your hosting (normally, it is`public_html`).
 - Create a database and import data from `database.sql` (it's located in source code).

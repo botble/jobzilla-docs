@@ -7,5 +7,3 @@
 - To change admin logo & favicon, go to Admin -> Settings -> General.
 
 ![Image](./images/admin-logo.png)
-
- 

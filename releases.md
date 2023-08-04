@@ -1,3 +1,3 @@
 # Release Notes
 
-Check release notes on #item-description__changelog
+Check release notes on #item-description__changelog.

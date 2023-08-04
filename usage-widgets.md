@@ -2,13 +2,14 @@
 
 ## Newsletter
 
-![Image](./images/widget-1.png) 
+![Image](./images/widget-1.png)
 
 If you don't need it, you can deactivate plugin Newsletter in Admin -> Plugins.
 
 ![Image](./images/widget-2.png)
 
-To change title & description for this section or remove it from footer section, you can change it in Admin -> Appearance -> Widgets
+To change title & description for this section or remove it from footer section, you can change it in Admin ->
+Appearance -> Widgets
 
 ![Image](./images/widget-3.png)
 
@@ -36,7 +37,7 @@ You can change or remove those menus from footer in Admin -> Appearance -> Widge
 
 ![Image](./images/menu-9.png)
 
-## Blog sidebar widgets 
+## Blog sidebar widgets
 
 ![Image](./images/widget-6.png)
 

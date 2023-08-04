@@ -1,11 +1,5 @@
 # JobZilla - Premium theme for Botble Job Board System
 
-- [Introduction](#introduction)
-- [Demo](#demo)
-- [Features](#features)
-- [Botble Team](#botble-team)
-
-<a name="introduction"></a>
 ## Introduction
 
 JobZilla is a theme for Jobcy script, so you need to purchase it first to use this theme.
@@ -18,10 +12,10 @@ By: [Botble Technologies](https://botble.com)
 
 Email: [contact@botble.com](mailto:contact@botble.com)
 
-Thank you for purchasing this product. If you have any questions that are beyond the scope of this help file, 
-please feel free to create a ticket on our support center [https://botble.ticksy.com](https://botble.ticksy.com) for quickly support. Thank you so much!
-		
-<a name="demo"></a>
+Thank you for purchasing this product. If you have any questions that are beyond the scope of this help file,
+please feel free to create a ticket on our support center [https://botble.ticksy.com](https://botble.ticksy.com) for
+quickly support. Thank you so much!
+
 ## Demo
 
 Homepage: [https://jobzilla.botble.com](https://jobzilla.botble.com)
@@ -32,8 +26,8 @@ Username: `botble`
 
 Password: `159357`
 
-<a name="features"></a>
 ## Features
+
 - 100% Fully Responsive & Fit all Device perfectly
 - Tested on real devices
 - Flexible Layout
@@ -50,9 +44,7 @@ Password: `159357`
 - Browser Compatibility
 - Well Documented & More...
 - RTL Supported.
-		
-<a name="botble-team"></a>
+
 ## Botble Team
 
-Visit us at [https://botble.com](https://botble.com)
-
+Visit us at [https://botble.com](https://botble.com).

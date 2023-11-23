@@ -26,9 +26,6 @@ export default [
       { text: 'Theme options', link: '/jobzilla/usage-theme-options' },
       { text: 'Widgets', link: '/jobzilla/usage-widgets' },
       { text: 'Custom CSS/JS', link: '/jobzilla/usage-custom-css-js' },
-
-      { text: 'Rename theme', link: '/jobzilla/theme-rename' },
-      { text: 'Custom CSS/JS', link: '/jobzilla/usage-custom-css-js' },
       { text: 'Translation', link: '/jobzilla/usage-translation' },
       { text: 'Multi-language', link: '/jobzilla/usage-multi-language' },
       { text: 'Google Analytics', link: '/jobzilla/usage-analytics' },
@@ -41,4 +38,10 @@ export default [
       { text: 'Setup social login', link: '/jobzilla/usage-social-login' },
     ],
   },
+  {
+    text: 'Development',
+    items: [
+      { text: 'Rename theme', link: '/jobzilla/theme-rename' },
+    ]
+  }
 ] satisfies DefaultTheme.SidebarItem[];

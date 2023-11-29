@@ -36,6 +36,7 @@ export default [
       { text: 'Currencies', link: '/jobzilla/usage-currencies' },
       { text: 'Setup social login', link: '/jobzilla/usage-social-login' },
       { text: 'Setup cronjob', link: '/jobzilla/cronjob' },
+      { text: 'Newsletter', link: '/jobzilla/usage-newsletter' },
     ],
   },
   {

@@ -22,9 +22,9 @@ Homepage: [https://jobzilla.botble.com](https://jobzilla.botble.com)
 
 Admin Area: [https://jobzilla.botble.com/admin](https://jobzilla.botble.com/admin)
 
-Username: `botble`
+Username: `admin`
 
-Password: `159357`
+Password: `12345678`
 
 ## Features
 
